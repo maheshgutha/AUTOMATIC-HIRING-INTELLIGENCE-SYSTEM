@@ -24,4 +24,5 @@ build/
 
 # IDE files
 .vscode/
-.idea/
+.idea/backend/.env 
+frontend/.env 
